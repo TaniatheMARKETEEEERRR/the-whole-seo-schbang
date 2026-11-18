@@ -2,7 +2,7 @@
 
 An open toolkit of **AI agents and skills** for running SEO, AEO (Answer Engine Optimization) and GEO (Generative Engine Optimization) for a business, from research to content to technical fixes to reporting.
 
-Built by **Tania Chakraborty**, a B2B growth marketer who turns marketing into pipeline.
+Built by **Tania Chakraborty**, a B2B growth marketer.
 
 ## What is this?
 
